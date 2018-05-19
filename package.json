@@ -1,7 +1,7 @@
 {
   "name": "jest-vue-report",
   "description": "A Jest test framework combined with Vuejs to render the test report, and a good combination with the nightmare",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "sam@thinkingsam.cn",
   "main": "dist/index.min.js",
   "scripts": {},
