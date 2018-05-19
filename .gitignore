@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+vueReport/
+src/
+gulp.config.js
+gulpfile.js
+package-dev.json
+package-lock.json

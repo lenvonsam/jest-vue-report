@@ -1,0 +1,30 @@
+{
+  "name": "jest-vue-report",
+  "description": "A Jest test framework combined with Vuejs to render the test report, and a good combination with the nightmare",
+  "version": "0.1.1",
+  "author": "sam@thinkingsam.cn",
+  "main": "dist/index.min.js",
+  "scripts": {},
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenvonsam/jest-vue-report.git"
+  },
+  "keywords": [
+    "jest",
+    "jest-report",
+    "jest-vue-report",
+    "nightmare",
+    "jest-test"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lenvonsam/jest-vue-report/issues"
+  },
+  "homepage": "https://github.com/lenvonsam/jest-vue-report#readme"
+}
